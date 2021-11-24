@@ -17,9 +17,9 @@
 }
 
 #room header .buttons .button:nth-child(1) img {
-    margin-left: 1rem;
-    width: 2rem;
-    height: 2rem;
+    margin-left: 11px;
+    width: 20px;
+    height: 20px;
 }
 
 #room header .buttons .button:nth-child(2) {
@@ -29,11 +29,4 @@
 #room header .buttons .button:nth-child(2) img {
     width: 2rem;
     height: 2rem;
-}
-
-#room button.outlined,
-.button.outlined {
-    background: var(--white);
-    color: var(--blue);
-    border: 0.2rem solid var(--blue);
 }
