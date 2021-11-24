@@ -10,6 +10,7 @@
     display: flex;
 }
 
+
 #room header .buttons .button:nth-child(1) {
     margin-right: 0.8rem;
     padding: 1.3rem 1.6rem;
@@ -28,4 +29,11 @@
 #room header .buttons .button:nth-child(2) img {
     width: 2rem;
     height: 2rem;
+}
+
+#room button.outlined,
+.button.outlined {
+    background: var(--white);
+    color: var(--blue);
+    border: 0.2rem solid var(--blue);
 }
