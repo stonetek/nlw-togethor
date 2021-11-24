@@ -20,3 +20,12 @@
     width: 2rem;
     height: 2rem;
 }
+
+#room header .buttons .button:nth-child(2) {
+    padding: 1.3rem 3.2rem;
+}
+
+#room header .buttons .button:nth-child(2) img {
+    width: 2rem;
+    height: 2rem;
+}
